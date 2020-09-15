@@ -3,7 +3,7 @@ package provider
 import (
 	"strings"
 
-	"github.com/zu1k/proxypool/pkg/tool"
+	"github.com/ilpl/proxypool/pkg/tool"
 )
 
 type SSRSub struct {

@@ -6,8 +6,8 @@ import (
 	"regexp"
 	"sync"
 
-	"github.com/zu1k/proxypool/pkg/proxy"
-	"github.com/zu1k/proxypool/pkg/tool"
+	"github.com/ilpl/proxypool/pkg/proxy"
+	"github.com/ilpl/proxypool/pkg/tool"
 )
 
 func init() {
